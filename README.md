@@ -25,11 +25,30 @@
 
 <h3 align="left">🏆 HackerRank Achievements</h3>
 
+<h3 align="left">🏅 HackerRank Certifications</h3>
+
 <p align="left">
   <a href="https://www.hackerrank.com/vaibhavkulal34" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge" />
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
+
+<p align="left">
+  <a href="https://www.hackerrank.com/certificates/YOUR_CERTIFICATE_ID_PYTHON" target="_blank">
+    <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Certificate" />
+  </a>
+  
+  <a href="https://www.hackerrank.com/certificates/YOUR_CERTIFICATE_ID_SQL" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-Basic-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Certificate" />
+  </a>
+  
+  <a href="https://www.hackerrank.com/certificates/YOUR_CERTIFICATE_ID_JAVA" target="_blank">
+    <img src="https://img.shields.io/badge/Java-Basic-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Certificate" />
+  </a>
+</p>
+
+<p align="left">Each badge links to the corresponding certification page on HackerRank.</p>
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavkulal&show_icons=true&locale=en&layout=compact" alt="vaibhavkulal" /></p>
