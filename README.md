@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Software Developer from India, ready to build impactful solutions.</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; margin-top: 30px;">
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg" 
-       alt="Profile 3D SVG" style="max-width: 400px; width: 100%; height: auto;" />
+
   <div style="max-width: 450px; font-size: 16px; line-height: 1.5;">
     <ul>
       <li>🔭 I’m currently seeking <strong>Full-time Software Development opportunities</strong></li>
