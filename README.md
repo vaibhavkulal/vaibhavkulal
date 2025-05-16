@@ -36,8 +36,8 @@
 
 ### 🛠️ Skills & Tools
 
-#### 💻 Programming Languages
-<div align="left">
+#### 💻 Programming Languages  
+<div align="left" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; max-width: 400px; margin-bottom: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
@@ -45,8 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin" />
 </div>
 
-#### 🌐 Frontend Development
-<div align="left">
+#### 🌐 Frontend Development  
+<div align="left" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; max-width: 400px; margin-bottom: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
@@ -57,14 +57,14 @@
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" title="Adobe XD" />
 </div>
 
-#### 🛠️ Backend & Frameworks
-<div align="left">
+#### 🛠️ Backend & Frameworks  
+<div align="left" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; max-width: 200px; margin-bottom: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" title="Flask" />
 </div>
 
-#### 🗄️ Databases
-<div align="left">
+#### 🗄️ Databases  
+<div align="left" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; max-width: 400px; margin-bottom: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
@@ -73,16 +73,16 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" title="SQL Server" />
 </div>
 
-#### ☁️ Cloud & DevOps
-<div align="left">
+#### ☁️ Cloud & DevOps  
+<div align="left" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; max-width: 300px; margin-bottom: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" title="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes" />
 </div>
 
-#### 🧰 Other Tools & Platforms
-<div align="left">
+#### 🧰 Other Tools & Platforms  
+<div align="left" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; max-width: 300px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" title="MATLAB" />
