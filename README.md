@@ -1,27 +1,23 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Kulal</h1>
-<h3 align="center">A passionate Software Developer from India, ready to build impactful solutions.</h3>
+<h3 align="center">A passionate Software Developer from India, building impactful and scalable solutions.</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; margin-top: 30px;">
+---
 
-  <div style="max-width: 450px; font-size: 16px; line-height: 1.5;">
-    <ul>
-      <li>🔭 I’m currently seeking <strong>Full-time Software Development opportunities</strong></li>
-      <li>🌱 Currently learning <strong>Android Development</strong> &amp; <strong>Cloud Computing</strong></li>
-      <li>💬 Ask me about <strong>Web, IoT, Backend Engineering</strong></li>
-      <li>📫 Reach me at: <strong>vaibhavkulal34@gmail.com</strong></li>
-      <li>⚡ Fun fact: <em>"Code is like humor – if you have to explain it, it’s bad."</em></li>
-    </ul>
-  </div>
-</div>
+### 🧑‍💻 About Me
 
+- 🔭 I’m currently seeking **Full-time Software Development opportunities**
+- 🌱 Currently learning **Android Development** & **Cloud Computing**
+- 💬 Ask me about **Web Development, IoT, Backend Engineering**
+- 📫 Reach me at: **vaibhavkulal34@gmail.com**
+- ⚡ Fun fact: *"Code is like humor – if you have to explain it, it’s bad."*
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vaibhavkulal&theme=algolia&margin-w=10" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vaibhavkulal&theme=algolia&margin-w=10" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -38,10 +34,10 @@
 
 ---
 
-<h3>🛠️ Languages & Tools</h3>
+### 🛠️ Skills & Tools
 
-<h4>💻 Programming Languages</h4>
-<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+#### 💻 Programming Languages
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
@@ -49,26 +45,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin" />
 </div>
 
-<h4 style="margin-top: 20px;">🌐 Frontend Development</h4>
-<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+#### 🌐 Frontend Development
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="AngularJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma" />
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" title="Adobe XD" />
 </div>
 
-<h4 style="margin-top: 20px;">🛠️ Backend & Frameworks</h4>
-<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+#### 🛠️ Backend & Frameworks
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" title="Flask" />
 </div>
 
-<h4 style="margin-top: 20px;">🗄️ Databases</h4>
-<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+#### 🗄️ Databases
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
@@ -77,21 +73,22 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" title="SQL Server" />
 </div>
 
-<h4 style="margin-top: 20px;">☁️ Cloud & DevOps</h4>
-<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+#### ☁️ Cloud & DevOps
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" title="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes" />
 </div>
 
-<h4 style="margin-top: 20px;">🧰 Tools & Platforms</h4>
-<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+#### 🧰 Other Tools & Platforms
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" title="MATLAB" />
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" title="Unity" />
 </div>
+
 ---
 
 ### 🎖 HackerRank Certifications
@@ -122,4 +119,4 @@
 
 ---
 
-<h3 align="center">💼 Open to full-time roles in Software Development | Web | Android | Backend | Cloud</h3>
+<h3 align="center">💼 Open to Full-Time Roles | Web | Android | Backend | Cloud | Software Development</h3>
