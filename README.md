@@ -1,7 +1,22 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Kulal</h1>
 <h3 align="center">A passionate Software Developer from India, ready to build impactful solutions.</h3>
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<table>
+<tr>
+  <td>
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+  </td>
+  <td>
+    <ul>
+      <li>🔭 I’m currently seeking <strong>Full-time Software Development opportunities</strong></li>
+      <li>🌱 Currently learning <strong>Android Development</strong> & <strong>Cloud Computing</strong></li>
+      <li>💬 Ask me about <strong>Web, IoT, Backend Engineering</strong></li>
+      <li>📫 Reach me at: <strong>vaibhavkulal34@gmail.com</strong></li>
+      <li>⚡ Fun fact: <em>"Code is like humor – if you have to explain it, it’s bad."</em></li>
+    </ul>
+  </td>
+</tr>
+</table>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
