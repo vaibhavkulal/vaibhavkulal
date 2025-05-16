@@ -18,6 +18,15 @@
 </tr>
 </table>
 
+
+<!-- Optional: Scrollable trophies -->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vaibhavkulal&theme=algolia&margin-w=10" alt="trophies" />
+  </a>
+</p>
+
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=vaibhavkulal&theme=algolia" alt="vaibhavkulal trophies" />
