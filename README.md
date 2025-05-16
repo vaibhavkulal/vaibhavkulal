@@ -1,23 +1,20 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Kulal</h1>
 <h3 align="center">A passionate Software Developer from India, ready to build impactful solutions.</h3>
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 
-<table>
-<tr>
-  <td>
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
-  </td>
-  <td>
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; margin-top: 30px;">
+  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg" 
+       alt="Profile 3D SVG" style="max-width: 400px; width: 100%; height: auto;" />
+  <div style="max-width: 450px; font-size: 16px; line-height: 1.5;">
     <ul>
       <li>🔭 I’m currently seeking <strong>Full-time Software Development opportunities</strong></li>
-      <li>🌱 Currently learning <strong>Android Development</strong> & <strong>Cloud Computing</strong></li>
+      <li>🌱 Currently learning <strong>Android Development</strong> &amp; <strong>Cloud Computing</strong></li>
       <li>💬 Ask me about <strong>Web, IoT, Backend Engineering</strong></li>
       <li>📫 Reach me at: <strong>vaibhavkulal34@gmail.com</strong></li>
       <li>⚡ Fun fact: <em>"Code is like humor – if you have to explain it, it’s bad."</em></li>
     </ul>
-  </td>
-</tr>
-</table>
+  </div>
+</div>
+
 
 ---
 
