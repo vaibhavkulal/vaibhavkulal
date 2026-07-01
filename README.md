@@ -172,16 +172,10 @@
 
 ---
 
-### 🏆 Trophies
+## 🔥 GitHub 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavkulal&theme=onestar&row=1&no-bg=true&no-frame=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhavkulal&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://streak-stats.demolab.com?user=vaibhavkulal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
