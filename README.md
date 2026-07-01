@@ -174,9 +174,8 @@
 
 ## 🔥 GitHub 
 
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavkulal&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/vaibhavkulal" />
 </p>
 
 ---
